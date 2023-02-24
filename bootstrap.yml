@@ -1,0 +1,5 @@
+spring.application.name=PaymentService
+#spring.cloud.config.server.git.uri=https://github.com/vRzd/AppProperty
+#spring.cloud.config.server.git.clone-on-start=true
+
+math.proxy.soap.ws=http://ec2-3-15-41-122.us-east-2.compute.amazonaws.com:3000/ws/mathCalculation.wsdl
