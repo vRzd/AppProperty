@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: PaymentService
-  math:
-    proxy:
-      soap:
-        ws: http://ec2-3-15-41-122.us-east-2.compute.amazonaws.com:3001/ws/mathCalculation.wsd
